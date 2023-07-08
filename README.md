@@ -5,6 +5,7 @@ Steps to Clone repository. First, I create a folder called "Github Clone a repos
 Then I copy the ricardo project folder inside the previous folder.
 This is the URL:
 https://ricardomoracastano.github.io/
+Github URL:
 https://github.com/ricardomoracastano
 Complete URL for ricardo project:
 https://github.com/ricardomoracastano/ricardomoracastano.github.io
