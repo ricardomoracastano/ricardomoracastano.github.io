@@ -213,8 +213,8 @@ video {
 	.nav_ul_li {}
 
 	.intro_paragraph {
-		text-align: left;
-		margin-left: 50px;
+    text-align: justify;
+    margin-left: 50px;
 	}
 
 	.paragraph_text {}
