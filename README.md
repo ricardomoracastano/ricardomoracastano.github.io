@@ -97,8 +97,12 @@ Do the following if you're using your customized build of modernizr (http://www.
           <h2><em>These are some questions to ask when you are designing your website:
             </em></h2>
           <h2
-              id="30-quot-denial-is-the-most-predictable-of-all-human-responses-quot-x2013-the-architect-the-matrix-reloaded-xa0">
-            &nbsp;
+              id="30-quot-denial-is-the-most-predictable-of-all-human-responses-quot-x2013-the-architect-the-matrix-reloaded-xa0">&nbsp;
+            
+
+
+
+
           </h2>
           <ul>
             <li>
@@ -119,7 +123,10 @@ Do the following if you're using your customized build of modernizr (http://www.
 
           </ul>
           <p>&nbsp;You will learn several topics and make a lot of tutorials and examples that will help you.</p>
+          <p>And you will grow as a person, and as a profesional!&nbsp;</p>
           <p>&nbsp;</p>
+          <img src="assets/20191009_113117.jpg"
+               alt="">
           <p><br>
             <br>
           </p>
