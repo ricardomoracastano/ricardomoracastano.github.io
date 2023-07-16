@@ -77,6 +77,7 @@ Do the following if you're using your customized build of modernizr (http://www.
   <div class="gridContainer clearfix"><img src="assets/logo_banner_001.png"
          alt="RM Solutions"
          width="865">
+    [![logo-banner-001.png](https://i.postimg.cc/s27x0JpD/logo-banner-001.png)](https://postimg.cc/hJ4KXTyH)
     <div class="gridContainer clearfix">
       <div id="content"
            class="fluid">
