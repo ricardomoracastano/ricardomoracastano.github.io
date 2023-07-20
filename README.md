@@ -76,7 +76,6 @@ Do the following if you're using your customized build of modernizr (http://www.
   <div class="gridContainer clearfix"><img src="assets/logo_banner_001.png"
          alt="RM Solutions"
          width="865">
-    [![logo-banner-001.png](https://i.postimg.cc/s27x0JpD/logo-banner-001.png)](https://postimg.cc/hJ4KXTyH)
     <div class="gridContainer clearfix">
       <div id="content"
            class="fluid">
@@ -99,6 +98,7 @@ Do the following if you're using your customized build of modernizr (http://www.
           <h2
               id="30-quot-denial-is-the-most-predictable-of-all-human-responses-quot-x2013-the-architect-the-matrix-reloaded-xa0">&nbsp;
             
+
 
 
 
@@ -126,7 +126,8 @@ Do the following if you're using your customized build of modernizr (http://www.
           <p>And you will grow as a person, and as a profesional!&nbsp;</p>
           <p>&nbsp;</p>
           <img src="assets/20191009_113117.jpg"
-               alt="">
+               alt="Image tree trunk"
+               title="tree trunk">
           <p><br>
             <br>
           </p>
